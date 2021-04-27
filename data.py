@@ -27,7 +27,6 @@ def tekshirish(harf,soz):
 
 def play():
     soz = tanlamoq()
-    print(soz)
     urinish = 0
     harf = ""
     chiziq = "-"*len(soz)
