@@ -1,2 +1,2 @@
-# soz-topish
- So'z topish o'yini | Python
+# So'z topish o'yini
+ Programmer: Mehroj Majidov | Github: https://github.com/MehrojOfficial
